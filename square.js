@@ -1,13 +1,13 @@
-// function square(number) {
-//     return number * number;
-//   }
+function square(number) {
+    return number * number;
+  }
   
-//   const result = square(5);
-//   console.log(result);
+  const result = square(5);
+  console.log(result);
 
-// const sum = [2+ 4+ 6+ 'mama'+ 4];
+const sum = [2+ 4+ 6+ 'mama'+ 4];
 
-// console.log(sum);
+console.log(sum);
 
 var myComputer = {
   brand : 'hp',
